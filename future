@@ -1,0 +1,59 @@
+<html>
+  <a name="top"></a>
+  <head>
+    <title>Home Page</title>
+    <h1 id="header">MY Web - 31268 Web Systems</h1> 
+    <link rel="stylesheet" href="websystems.css">
+
+
+
+
+    
+      <div class="menu">
+      <p><a href="past.html">MY Past</a> | <a href="future.html">MY Future</a> | <a href="comments.html">MY Comments</a>
+      </div>
+    
+
+
+      
+
+
+    
+   
+      <h2>About me</h2>
+      <pre class="aboutme">I am a Web system student. This is my web page. This my first year at the University 
+of Technology Sydney.I was born in China. I came to Australia when I was 14 years old. 
+In Australia,I met a lot of interesting peoples and I starting to like this place. </pre>
+      
+        <img src="img1.jpeg" alt="Horse and me" height="300" class="horsepic"> 
+      
+      <h2>My Hobby</h2>
+      <pre class="myhobby">I am a big fan of taking photograph. I went to a lot of place in Australia to take pictures. 
+I went to Melbourne to take photographs of the Milky Way. Also, I like swimming. Sydney has
+beaches everywhere. </pre>
+
+
+      <img src="img2.jpeg" alt="My friend and Milky Way" height="300" class="milkyway">
+    
+   
+
+    <a href="#top">Back to TOP</a>
+
+
+
+    <footer>
+      <div class="footer">
+      <p>ºby xxx University of Technology Sydney</p>
+      <p><a href="past.html">MY Past</a> | <a href="future.html">MY Future</a> | <a href="comments.html">MY Comments</a> 
+      </div>
+    </footer>  
+
+
+
+
+
+</html>
+
+
+
+

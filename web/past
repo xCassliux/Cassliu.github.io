@@ -1,0 +1,56 @@
+<html>
+  <a name="top"></a>
+    <head>
+        <title>My past</title>
+        <h1 id="header">MY Web - 31268 Web Systems</h1> 
+        <link rel="stylesheet" href="websystems.css">
+    
+
+    
+      <div class="menu">
+      <p><a href="index.html">Home Page</a> | <a href="past.html">MY Past</a> | <a href="future.html">MY Future</a> | <a href="comments.html">MY Comments</a>
+      </div>
+    
+    
+     
+      <h2 class="Employment">Employment History</h2>
+      <pre class="detailofemployment">Reception at XXXXX Australia Pty Ltd
+Date: July 2017 — August 2020 Had work experience when at High school.</pre>
+
+      <h2>My skills and hobbies </h2>
+      <table id="myskillandHobbiestable">
+        <tr>
+        <th>Skills</th>
+        <th>Hobbies</th>
+        </tr>
+        <tr>
+        <td>Microsoft Office Word </td>
+        <td>Swimming </td>
+        </tr>
+        <tr>
+        <td>Microsoft Excel</td>
+        <td>Photography </td>
+        </tr>
+        <tr>
+        <td>RStudio</td>
+        <td>Drone</td>
+        </tr>
+        <tr>
+        <td>Adobe Photoshop</td>
+        <td>Baking</td>
+        </tr>
+      </table>
+
+    
+    <a href="#top">Back to TOP</a>
+    
+
+    <footer>
+        <div class="footer">
+        <p>ºby xxx University of Technology Sydney</p>
+        <p><a href="index.html">Home Page</a> | <a href="past.html">MY Past</a> | <a href="future.html">MY Future</a> | <a href="comments.html">MY Comments</a> 
+        </div>
+    </footer>
+
+</html>
+
