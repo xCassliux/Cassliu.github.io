@@ -1,0 +1,83 @@
+<html>
+    <a name="top"></a>
+    <head>
+        <title>Home Page</title>
+        <h1 id="header">MY Web - 31268 Web Systems</h1> 
+        <link rel="stylesheet" href="websystems.css">
+    </head>
+
+    <menu>
+      <div class="menu">
+      <p><a href="index.html">Home Page</a> | <a href="past.html">MY Past</a> | <a href="future.html">MY Future</a> | <a href="comments.html">MY Comments</a>
+      </div>
+    </menu>
+    
+    <content>
+      <body>
+
+     <h2>The Comments</h2>
+     <h3> Short reflection </h3>
+     <pre> 
+The website is 4 HTML and 1 CSS and some of the pictures. To design website 
+pages there are CSS classes, CSS id, div, span, table, list involved. 
+Furthermore, use some of the websites to help me design this website. 
+On this website on every page there are mean, body and footer. Next, 
+there will be detail explains about the webpage on the technical aspect, 
+aesthetics, and aesthetics.
+
+
+     </pre>
+
+
+
+     <h3> Technical </h3>
+
+     <pre>
+On this website, there are <span> 4 HTML </span>, <span>1 CSS </span> which is a style sheet and <span>2 images</span>. 
+Index.html is the home page. Furthermore, here are 7 CSS and 1 ID. And 1 div 
+for the menu. Every page has to have a menu so I set up a div. And there are 
+7 classes. These classes are about me, myhobby, horsepic, milkyway, myskillandHobbiestable, 
+detailofemployment and myfuture. The ID is the header. I had added 2 pictures.  </pre>
+    
+     <h3> Accessibility </h3> 
+     <ul>
+        <li>This website has been testing on turned off the Javascript. The website is still usable. </li> 
+        <li>I had the test to use a mobile device and 2 browsers. (There is a picture to show the mobile device interface.)  </liI>
+        <li>There are links that can use to access index, past, future and comments pages. </li>
+        <li>The pages are all easy to navigate and read. </li>
+        <li>There are Back to TOP to go back to the top. So the user doesn’t need to roll back to the top.</li>
+    </ul>
+      
+      <img src="img3.jpeg" alt="mobiledevice" height="300" class="mobiledevice"> 
+
+     <h3> Aesthetics </h3> 
+     <pre>
+This website should be easy to read. And one user can find what they want. 
+The links will help the user and take them to the page straight forward.
+     </pre>
+     
+     <h4> Colour and Font styles </h4>
+     <pre>
+User will feel the colour of the page match. There will not be a strange colour. (like: green and red) 
+All the pages are use the primary colour is around grey. The <span>Background colour</span> of the <span>ID header</span> is #595959 
+and the word is white so have a sharp contrast. All the texts and pictures are in the middle. Centre make 
+them in order and clear.  
+    </pre>
+     
+     <img src="img4.jpeg" alt="colour" height="300" class="colour"> 
+
+
+
+    </body>
+    <a href="#top">Back to TOP</a>
+    </content>
+
+
+    <footer>
+        <div class="footer">
+        <p>ºby xxx University of Technology Sydney</p>
+        <p><a href="index.html">Home Page</a> | <a href="past.html">MY Past</a> | <a href="future.html">MY Future</a> | <a href="comments.html">MY Comments</a> 
+        </div>
+    </footer>
+
+</html>
